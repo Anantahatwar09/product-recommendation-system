@@ -1,0 +1,145 @@
+id,name,price,mrp,rating,ratingTotal,discount,seller
+110,Studs Earrings,1258.0,1573.0,0.0,0,20,PALMONAS
+111,Set Of 2 Gold-Plated Anklets,2995.0,2995.0,0.0,0,0,Silvermerc Designs
+112,Gold-Plated Long Jewellery Set,465.0,1699.0,0.0,0,1234,MANSIYAORANGE
+113,Gold-Plated Necklace,339.0,1699.0,0.0,0,80,ROFARWORD
+114,Gold-Plated Jewellery Set,309.0,1549.0,0.0,0,80,ROFARWORD
+115,Gold-Plated Jewellery Set,1395.0,4500.0,0.0,0,69,GRIIHAM
+116,Gold-Plated Drop Earrings,749.0,3745.0,0.0,0,80,Peora
+117,Gold-Plated Statement Necklace,994.0,2925.0,0.0,0,66,SOHI
+118,Gold-Plated Jewellery Set,339.0,1699.0,0.0,0,80,ROFARWORD
+119,Silver-Plated Oxidized Bangle,1999.0,1999.0,0.0,0,0,Samridhi DC
+120,Gold-Plated Jewellery Set,882.0,2264.0,0.0,0,61,Sukkhi
+121,Textured Structured Sling Bag,1690.0,1690.0,0.0,0,0,Metro
+122,Studs Earrings,1416.0,1770.0,0.0,0,20,PALMONAS
+123,Women Silver-Plated Charm Bracelet,899.0,4495.0,0.0,0,80,Peora
+124,Rose Gold-Plated Finger Ring,349.0,349.0,0.0,0,0,MYKI
+125,Rose Gold-Plated Mangalsutra,881.0,5875.0,0.0,0,85,Vita Bella
+126,Set of 2 Silver-Plated Anklets,1999.0,1999.0,0.0,0,0,RUHI COLLECTION
+127,Drop Earrings,399.0,399.0,0.0,0,0,MYKI
+128,Rhodium-Plated Jewellery Set,559.0,2799.0,0.0,0,80,Aazeen
+129,Women PU Belt With Chain Drop,1195.0,1195.0,0.0,0,0,20Dresses
+130,Gold-Plated Jewellery Set,453.0,1164.0,0.0,0,61,Sukkhi
+131,Silver-Plated Jewellery Set,388.0,2159.0,0.0,0,82,Anouk
+132,Rhodium-Plated Drop Earrings,591.0,3699.0,0.0,0,84,Aazeen
+133,Rhodium-Plated Bracelet,379.0,1899.0,0.0,0,80,Aazeen
+134,Silver-Plated Ring,299.0,999.0,0.0,0,700,VIEN
+135,Gold-Plated Necklace,994.0,2925.0,0.0,0,66,SOHI
+136,Brass Gold-Plated Layered Necklace,299.0,2499.0,0.0,0,88,Aazeen
+137,Set Of 2 Gold-Plated Bangles,665.0,3699.0,0.0,0,82,Aazeen
+138,Aviator Sunglasses,903.0,1290.0,0.0,0,30,MAGNEQ
+139,Drop Earrings,1899.0,1899.0,0.0,0,0,Jewelz
+140,Set of 2 Coffee Body Wash,798.0,798.0,4.5,69,0,MCaffeine
+141,Gold-Plated Short Chain,149.0,999.0,0.0,0,85,JEWEL WORLD
+142,Studs Earrings,320.0,320.0,0.0,0,0,MYKI
+143,Jhumkas Earrings,459.0,1999.0,0.0,0,77,Aazeen
+144,Textured Structured Sling Bag,1690.0,1690.0,0.0,0,0,Metro
+145,Gold-Plated Jewellery Set,4000.0,12500.0,0.0,0,68,GRIIHAM
+146,Gold-Plated Necklace,1198.0,3525.0,0.0,0,66,SOHI
+147,Jhumkas Earrings,299.0,2999.0,0.0,0,90,Kord Store
+148,Drop Earrings,399.0,399.0,0.0,0,0,MYKI
+149,Rhodium-Plated Jewellery Set,1484.0,5499.0,0.0,0,73,Aazeen
+150,Gold-Plated Necklace,359.0,1799.0,0.0,0,80,ROFARWORD
+151,Printed Cotton Kurta,2199.0,2199.0,0.0,0,0,Fabindia
+152,Gold-Plated Jewellery Set,1488.0,4800.0,0.0,0,69,GRIIHAM
+153,Kalamkari Tussar Jute Silk Saree,22899.0,45798.0,0.0,0,50,Unnati Silks
+154,Floral Kanjeevaram Saree,5599.0,5599.0,0.0,0,0,MIMOSA
+155,Woven Design Taant Saree,4785.0,4785.0,0.0,0,0,AllSilks
+156,Gold-Plated Jewellery Set,645.0,1699.0,0.0,0,1054,MANSIYAORANGE
+157,Semi-Stitched Lehenga Unstitched Blouse With Dupatta,2299.0,2299.0,0.0,0,0,APNISHA
+158,Ready to Wear Lehenga Blouse With Dupatta,6682.0,12850.0,0.0,0,48,Fusionic
+159,Zari Banarasi Saree,835.0,1899.0,0.0,0,56,Ode by House of Pataudi
+160,Woven Design Kanjeevaram Saree,749.0,2497.0,0.0,0,70,HERE&NOW
+161,Striped Pure Cotton Saree,2512.0,3490.0,0.0,0,28,Charukriti
+162,Woven Design Silk Cotton Saree,2340.0,3250.0,0.0,0,28,Charukriti
+163,Kurti With Sharara & Dupatta,2949.0,4999.0,0.0,0,41,SCAKHI
+164,Printed Embellished Saree,1343.0,4799.0,0.0,0,72,Anouk
+165,Woven Design Banarasi Silk Blend Saree,1399.0,6995.0,0.0,0,80,RAJGRANTH
+166,Kurta with Trousers & Dupatta,3500.0,4375.0,0.0,0,20,HOUSE OF JAMOTI
+167,Gold-Plated Long Jewellery Set,465.0,1699.0,0.0,0,1234,MANSIYAORANGE
+168,Woven Design Art Silk Saree,2695.0,2695.0,0.0,0,0,Meena Bazaar
+169,Pure Chiffon Leheriya Saree,719.0,2999.0,0.0,0,76,KALINI
+170,Gold-Plated Necklace,339.0,1699.0,0.0,0,80,ROFARWORD
+171,Printed Cotton Ethnic Dress,4671.0,7299.0,0.0,0,36,SCAKHI
+172,Printed Pure Cotton Saree,1063.0,3799.0,0.0,0,72,Anouk
+173,Paisley Kanjeevaram Saree,4999.0,4999.0,0.0,0,0,MIMOSA
+174,Floral Printed Anarkali Kurta,2600.0,2600.0,0.0,0,0,INDYA
+175,Ethnic Motifs Silk Blend Saree,3999.0,3999.0,0.0,0,0,Phenav
+176,Silver-Plated Oxidized Bangle,1999.0,1999.0,0.0,0,0,Samridhi DC
+177,Gold-Plated Jewellery Set,882.0,2264.0,0.0,0,61,Sukkhi
+178,Floral Pure Cotton Saree,2340.0,3250.0,0.0,0,28,Charukriti
+179,Printed Straight Kurta,699.0,1999.0,0.0,0,65,SkyaSia
+180,Rose Gold-Plated Mangalsutra,881.0,5875.0,0.0,0,85,Vita Bella
+181,Ethnic Motifs Silk Blend Saree,3999.0,3999.0,0.0,0,0,Phenav
+182,Women Embroidered Kurta with Trousers With Dupatta,1646.0,4449.0,0.0,0,63,navibhu
+183,Chanderi Silk Cotton Saree,1552.0,6749.0,0.0,0,77,Pisara
+184,Tie And Dye Printed Zari Saree,1147.0,4099.0,0.0,0,72,Anouk
+185,Striped Pure Cotton Saree,2999.0,2999.0,0.0,0,0,Fabindia
+186,Woven Design Pure Cotton Saree,5032.0,6990.0,0.0,0,28,Charukriti
+187,Kurti,1900.0,1900.0,0.0,0,0,CRAZEVILLA
+188,Kurta with Trousers & Dupatta,3498.0,4373.0,0.0,0,20,HOUSE OF JAMOTI
+189,Kota Pure Cotton Saree,1699.0,3398.0,0.0,0,50,Unnati Silks
+190,Rhodium-Plated Drop Earrings,591.0,3699.0,0.0,0,84,Aazeen
+191,Brass Gold-Plated Layered Necklace,299.0,2499.0,0.0,0,88,Aazeen
+192,Set Of 2 Gold-Plated Bangles,665.0,3699.0,0.0,0,82,Aazeen
+193,Woven Design Kanjeevaram Art Silk Saree,4199.0,4199.0,0.0,0,0,MIMOSA
+194,Checked Pure Crepe Saree,1699.0,4000.0,0.0,0,2301,Kasak
+195,Striped Silk Blend Saree,1133.0,5150.0,0.0,0,78,Satrani
+196,Checked Kanjeevaram Saree,1014.0,2899.0,0.0,0,65,Anouk
+197,Floral Pure Linen Saree,1799.0,4499.0,0.0,0,60,DIVASTRI
+198,Printed A-Line Ethnic Dress,2499.0,2499.0,0.0,0,0,KALINI
+199,Striped Handloom Saree,7689.0,7689.0,0.0,0,0,AllSilks
+200,Printed Tussar Pure Silk Saree,5643.0,5643.0,0.0,0,0,AllSilks
+201,Cosmos BT Calling Smartwatch,7499.0,7499.0,0.0,0,0,pebble
+202,Women Watch Bracelet Gift Set,5299.0,5299.0,0.0,0,0,Voylla
+203,Women Watch Bracelet Gift Set,4399.0,4399.0,0.0,0,0,Voylla
+204,Women Watch Bracelet Gift Set,4199.0,4199.0,0.0,0,0,Voylla
+205,Women Watch Bracelet Gift Set,5499.0,5499.0,0.0,0,0,Voylla
+206,Women Watch Bracelet Gift Set,3999.0,3999.0,0.0,0,0,Voylla
+207,Women Watch Bracelet Gift Set,4549.0,4549.0,0.0,0,0,Voylla
+208,Women Watch Bracelet Gift Set,4499.0,4499.0,0.0,0,0,Voylla
+209,Cosmos BT Calling Smartwatch,2799.0,7499.0,0.0,0,4700,pebble
+210,Cosmos BT Calling Smartwatch,2799.0,7499.0,0.0,0,4700,pebble
+211,Cosmos BT Calling Smartwatch,2799.0,7499.0,0.0,0,4700,pebble
+212,Women Watch Bracelet Gift Set,4699.0,4699.0,0.0,0,0,Voylla
+213,Analogue Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+214,Printed Dial Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+215,Women Bracelet Style Watch,899.0,4495.0,0.0,0,80,Swiss Design
+216,Stainless Steel Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+217,Women Analogue Watch,813.0,2199.0,0.0,0,63,DressBerry
+218,Women Leather Straps Watch,643.0,2299.0,0.0,0,72,Killer
+219,Stainless Steel Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+220,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+221,Pack Of 2 Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+222,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+223,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+224,Set Of 2 Analogue Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+225,Women Leather Straps Watch,874.0,3499.0,0.0,0,75,Killer
+226,Rubber Straps Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+227,Women Leather Strap Watch,699.0,2499.0,0.0,0,72,Killer
+228,Women Stainless Steel Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+229,Stainless Steel Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+230,Pack Of 2 Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+231,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+232,Women Bracelet Style Watch,899.0,4495.0,0.0,0,80,Swiss Design
+233,Stainless Steel Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+234,Ninja Call Ultra Smartwatch,1499.0,9999.0,0.0,0,8500,Fire-Boltt
+235,Stainless Steel Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+236,Women Silecon Textured Watch,43000.0,43000.0,0.0,0,0,TISSOT
+237,Set Of 3 Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+238,Unisex Leather Watch,66500.0,66500.0,0.0,0,0,TISSOT
+239,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+240,Women Set Of 3 Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+241,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+242,Analogue Straps Watch,599.0,3499.0,0.0,0,2900,CERO
+243,Women Analogue Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+244,Printed Dial Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+245,Women Stainless Steel Straps Watch,499.0,2199.0,0.0,0,1700,WATCHSTAR
+246,Women Analogue Watch,813.0,2199.0,0.0,0,63,DressBerry
+247,Women Embellished Watch,1695.0,1695.0,0.0,0,0,maxima
+248,Stainless Steel Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+249,Women Set Of 2 Analogue Watch,599.0,3499.0,0.0,0,2900,CERO
+250,Women Analogue Watch,1447.0,2895.0,0.0,0,50,Timex
+251,Women Low-Rise Bikini Briefs,459.0,1999.0,0.0,0,77,Curves By ZeroKaata
+252,Women Lace Thongs Briefs,459.0,1999.0,0.0,0,77,Curves By ZeroKaata
+253,Women Thongs Briefs,459.0,1999.0,0.0,0,77,Curves By ZeroKaata
